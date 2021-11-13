@@ -1,0 +1,7 @@
+{
+  "name": "Word Sets Medium Game",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
